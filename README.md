@@ -6,7 +6,7 @@ I am currently learning DSA<br>Check out my resume here <br>Reach out to me at d
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  linkedin.com/in/deepthi-deepthi-b35a27382
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]  mailto:  deepthi.1175@gmail.com
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]  Mail To:  deepthi.1175@gmail.com
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
