@@ -4,6 +4,10 @@ I am currently learning DSA<br>Check out my resume here <br>Reach out to me at d
 
 
 ## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-deepthi-b35a27382)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthi.1175@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  
 linkedin.com/in/deepthi-deepthi-b35a27382
 
