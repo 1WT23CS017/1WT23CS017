@@ -1,7 +1,9 @@
 # Hi,I'm Deepthi Srinivasa
 # A passionate python developer from india
 I am currently learning DSA<br>Check out my resume here <br>Reach out to me at deepthi.1175@gmail.com
+
 Building ATS Resume Analyzer
+
 Open to Internships & Collaboratio
 
 
