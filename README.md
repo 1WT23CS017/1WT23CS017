@@ -1,5 +1,5 @@
 # Hi,I'm Deepthi Srinivasa
-# A passionate developer from india
+# A passionate python developer from india
 I am currently learning DSA<br>Check out my resume here <br>Reach out to me at deepthi.1175@gmail.com
 
 
