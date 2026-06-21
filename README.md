@@ -1,9 +1,10 @@
 # Hi,I'm Deepthi Srinivasa
 # A passionate developer from india 
 Aspiring Data Analyst
-I am currently learning DSA<br>Check out my resume here <br>Reach out to me at deepthi.1175@gmail.com
-Building ATS Resume Analyzer
+Building ATS Resume Analyzer , AI/ML & Web Projects
 Open to Internships & Collaboratio
+I am currently learning DSA<br>Check out my resume here <br>Reach out to me at deepthi.1175@gmail.com
+
 
 
 ## 🌐 Socials:
