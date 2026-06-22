@@ -1,8 +1,8 @@
-# Hi,I'm Deepthi Srinivasa
+# Hii,I'm Deepthi Srinivasa
 # A passionate developer from india 
 Aspiring Data Analyst
 I am currently learning DSA<br>Check out my resume here <br>Reach out to me at deepthi.1175@gmail.com
-Open to Internships & Collaboration
+
 
 
 ## 🌐 Socials:
